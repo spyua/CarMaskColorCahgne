@@ -1,6 +1,6 @@
 # CarMaskColorCahgne
 
-A simple approach bout change color of car body cover on linux embedded system 
+A simple approach about change color of car body cover on linux embedded system 
 
 ## Demo
 
